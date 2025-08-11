@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ###### my **language.** and **tools.**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,go,linux,docker,git,nodejs,npm,postgres,postman,unity)]
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,go,linux,docker,git,nodejs,npm,postgres,postman,unity)
 
 
