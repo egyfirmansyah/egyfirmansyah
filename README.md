@@ -1,4 +1,4 @@
-## Hi there 👋
+![egy firmansyah](header-banner.png)
 
 <!--
 **egyfirmansyah/egyfirmansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###### my **language.** and **tools.**
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,go,linux,docker,git,nodejs,npm,postgres,postman,unity)](https://skillicons.dev)
+
+
